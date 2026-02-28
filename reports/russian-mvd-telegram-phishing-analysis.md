@@ -2,7 +2,7 @@ markdown
 # Threat Analysis: Russian MVD Warns of Telegram-Based Gosuslugi Code Theft (February 2026)
 
 **Author:** an7arc71ca  
-**Date:** Februry 2026  
+**Date:** February 2026  
 **Language of Original Source:** Russian  
 **Original Source:** Ministry of Internal Affairs of the Russian Federation  
 **Original Article:** [МВД РФ назвали схему мошенников для выманивания кода от "Госуслуг" через Telegram](https://iz.ru/2049076/2026-02-26/mvd-rf-nazvali-shemu-moshennikov-dlia-vymanyvaniia-koda-ot-gosuslug-cherez-telegram)  
