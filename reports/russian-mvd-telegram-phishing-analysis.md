@@ -1,4 +1,3 @@
-markdown
 # Threat Analysis: Russian MVD Warns of Telegram-Based Gosuslugi Code Theft (February 2026)
 
 **Author:** Artem Chuprov  
