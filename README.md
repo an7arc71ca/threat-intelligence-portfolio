@@ -39,17 +39,17 @@ I specialize in monitoring and analyzing cybersecurity threats from **Russian, C
 |--------|------|--------|---------|
 | [**Telegram-Based Gosuslugi Code Theft**](/reports/russian-mvd-telegram-phishing-analysis.md) | March 2026 | Russian MVD / Izvestia | Analysis of phishing campaign where scammers pose as delivery service employees on Telegram to steal SMS codes and access Russian government service accounts. |
 
+### Japanese-Language Analysis
+
+| Report | Date | Source | Summary |
+|--------|------|--------|---------|
+| [**Japan's Top Cybersecurity Threats 2026: IPA "Information Security 10 Major Threats" Analysis**](/reports/japan-ipa-top-threats-2026-analysis.md) | March 2026 | IPA Japan | Analysis of Japan's annual top threats report, covering ransomware evolution, AI risks debuting at #3, and Japan's unique cybersecurity landscape. |
+
 ### Chinese-Language Analysis *(Coming Soon)*
 
 | Report | Date | Source | Summary |
 |--------|------|--------|---------|
 | *In progress...* | | | |
-
-### Japanese-Language Analysis *(Coming Soon)*
-
-| Report | Date | Source | Summary |
-|--------|------|--------|---------|
-| *Planned...* | | | |
 
 ---
 
