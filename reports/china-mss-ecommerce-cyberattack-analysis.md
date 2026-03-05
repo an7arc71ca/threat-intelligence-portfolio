@@ -133,8 +133,8 @@ Chinese cybersecurity is undergoing a paradigm shift toward AI-driven proactive 
 |-------|-------------|
 | **AI Security Investment** | User spending on AI security expected to become new growth driver |
 | **Multi-Agent Security** | Zero-knowledge proofs and federated learning for trust verification |
-| **Attack AI化** | Attackers fully leveraging AI for target screening and attack optimization |
-| **Defense智能化** | AI evolving from analytical tool to core security capability |
+| **AI-Powered Attacks** | Attackers fully leveraging AI for target screening and attack optimization |
+| **AI-Driven Defense** | AI evolving from analytical tool to core security capability |
 
 ### 4.4 Critical Infrastructure Protection
 
