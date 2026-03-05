@@ -183,7 +183,7 @@ The attack on the e-commerce platform's procurement data highlights the intersec
 - Supply chain attacks can propagate from Chinese partners to global operations
 
 **2. Bridge visibility gaps**
-- Nearly 40% of Japanese organizations surveyed were uncertain about attacks originating from overseas partners 
+- Cross-border attack attribution remains a critical weakness across Asia: nearly 40% of Japanese organizations surveyed were uncertain about attacks originating from overseas partners
 - Implement monitoring that spans your entire ecosystem, including Chinese operations
 
 **3. Leverage Chinese threat intelligence**
