@@ -45,11 +45,11 @@ I specialize in monitoring and analyzing cybersecurity threats from **Russian, C
 |--------|------|--------|---------|
 | [**Japan's Top Cybersecurity Threats 2026: IPA "Information Security 10 Major Threats" Analysis**](/reports/japan-ipa-top-threats-2026-analysis.md) | March 2026 | IPA Japan | Analysis of Japan's annual top threats report, covering ransomware evolution, AI risks debuting at #3, and Japan's unique cybersecurity landscape. |
 
-### Chinese-Language Analysis *(Coming Soon)*
+### Chinese-Language Analysis
 
 | Report | Date | Source | Summary |
 |--------|------|--------|---------|
-| *In progress...* | | | |
+| [**MSS Warns of Overseas Hackers Targeting E-Commerce Platforms**](/reports/china-mss-ecommerce-cyberattack-analysis.md) | March 2026 | Ministry of State Security, China | Analysis of sophisticated cyberattack on Chinese e-commerce platform where overseas hackers stole data related to national critical infrastructure procurement and high-end scientific research materials. |
 
 ---
 
